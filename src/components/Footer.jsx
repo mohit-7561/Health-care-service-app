@@ -1,13 +1,9 @@
-import "./Footer.css";
-
-function Footer() {
+const Footer = () => {
   return (
-    <footer className="footer">
-      <p>
-        Designed by <strong>Mohit Kumar</strong>
-      </p>
-    </footer>
+    <div className="footer">
+      <p>Designed by Mohit Kumar</p>
+    </div>
   );
-}
+};
 
 export default Footer;
