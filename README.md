@@ -44,4 +44,4 @@ After the installation is complete, you can start the development server with:
 
 `npm run dev`
 
-`This will run the app in development mode. Open http://localhost:3000 to view it in your browser.`
+This will run the app in development mode. Open http://localhost:3000 to view it in your browser
